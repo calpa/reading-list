@@ -1,2 +1,2 @@
-# reading-list
- 這是我的書單。
+## 準備讀
+1. Structure and Interpretation of Computer Programs (SICP)
